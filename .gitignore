@@ -1,16 +1,6 @@
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
+# Files exceeding GitHub 100MB limit
+*.tmp
+flutter_windows_*.zip
+mysql-installer-community-*.msi
+mysql-workbench-community-*.msi
+Obsidian-*.exe
